@@ -41,10 +41,13 @@ ii)  SQUARE WAVE INPUT
 
 
 ## TABULATION:
+![WhatsApp Image 2025-10-19 at 21 15 21_ed7ac177](https://github.com/user-attachments/assets/b1186bd4-94dc-4372-90db-f3461d2792e2)
 
 
 ## GRAPH:
+![WhatsApp Image 2025-10-19 at 21 15 21_5c7e38bd](https://github.com/user-attachments/assets/292e8e19-97c5-42e9-84d5-04f3f6f54c05)
+![WhatsApp Image 2025-10-19 at 21 15 20_af00806f](https://github.com/user-attachments/assets/990260f1-b77f-4bfc-8c40-da6000b2c590)
 
 
 ## RESULT:
-
+Thus, the Integrator is designed and the performance is tested using Op-Amp.
